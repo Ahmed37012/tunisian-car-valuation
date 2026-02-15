@@ -1,5 +1,5 @@
 # Car Valuation IA - Marché Tunisien 🚗
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tunisian-car-valuation-nuc6jgkpqwzwgqwxju8spw.streamlit.app/)
 Ce projet est une application de Machine Learning capable de prédire le prix des véhicules en utilisant un algorithme de Régression (Random Forest). L'interface permet une estimation adaptée au marché tunisien grâce à un ajustement des taxes et du taux de change.
 
 ## 📊 Performance du Modèle
